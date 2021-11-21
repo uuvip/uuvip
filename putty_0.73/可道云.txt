@@ -1,0 +1,4 @@
+您可以用如下账号登录
+管理员：admin/(在下面设置密码)
+普通用户：demo/demo
+游客用户：guest/guest

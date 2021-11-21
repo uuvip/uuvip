@@ -1,0 +1,42 @@
+pwd 显示当前所在目录
+
+ls     //list 显示目录下的内容
+
+cd 		//回到登录用户的家目录
+		cd /home //进入下一级目录
+		cd /	//进入根目录
+		cd -	//进入上一次操作目录
+		cd ..   //进入上一级目录
+
+ mkdir mmcblk1p3    //创建目录
+
+		蓝色 文件夹(目录)
+		mkdir 文件名字(用英文)
+rm -rf 文件[目录]		//删除
+		-r 删除目录
+		-f 强制
+
+查看硬盘
+看到硬盘的分区情况 df d
+查看硬盘容量，那么输入：df
+要以GB方式查看，那么输入命令：【df -h】
+
+/dev/mapper/centos-home  411G   
+
+
+Linux的硬盘识别:
+
+一般使用”fdisk -l”命令可以列出系统中当前连接的硬盘 fdisk -l
+要以GB方式查看，那么输入命令：df -h
+
+挂载U盘 
+
+先格式化为ETX4 在插电脑上去 
+用工具先删除分区 在新建分区ETX4
+openwrt 分好区插上去自动挂好了的
+以下是手动挂载
+1，用”fdisk -l”命令 找到U盘名
+2，挂载用 mount /dev/sdc /mnt  把《/dev/sdc》是U盘名，挂到/mnt是系统空目录 
+3,不用了卸载 umount /mnt  把挂载点/mnt卸载
+4，弹出U盘 eject /dev/sda  说明</dev/sda指U盘名>
+

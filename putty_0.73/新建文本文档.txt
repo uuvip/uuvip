@@ -1,0 +1,59 @@
+Bt-Panel: http://192.168.1.105:8888/f2f50777
+
+username: am8rq4hk
+password: b134d21a
+
+
+Error: DBUS_ERROR: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory                                                                         uch file or directory
+
+cd /storage/emulated/0/Download
+
+./sunny --clientid=uu14top
+./sunny clientid 226bdc25573dfef2
+
+wget http://hls.ctopus.com/sunny/linux_arm.zip
+
+
+unzip linux_arm.zip
+
+setsid ./sunny --clientid=226bdc25573dfef2 &
+=======================================================
+穿透一下执行 在域名http://kan.zimingdh.com
+
+wget https://qianqu.me/frp/frpc_linux_arm --no-check-certificate
+
+chmod +x frpc_linux_arm
+
+./frpc_linux_arm
+
+94a5d6e7d3e3d2d2
+
+./frpc_linux_arm -t 访问密钥 -s 服务器ID
+./frpc_linux_arm -t 94a5d6e7d3e3d2d2 -s 38   这是自动启动隧道
+======================================================
+
+1、删除文件命令
+rm -f 文件名字
+rm -f frpc_linux_arm
+
+kan.zimingdh.com
+
+发现没有安装ssh，使用apt-get install openssh-server安装ssh安装好后，执行/etc/init.d/ssh resart启动ssh，之后就可以连接
+vi /etc/sysconfig/network-scripts/ifcfg-lo 编辑网卡  
+
+passwd root
+
+输入2次新密码
+
+==================================================
+2.查看ens33网卡配置，输入 vi /etc/sysconfig/network-scripts/ifcfg-ens33
+
+将ONBOOT权限改为yes
+3.重启网络服务，输入sudo service network restart
+
+ 4.输入ifconfig（或ip addr）查看ip即可
+另：若网卡开启后，输入ifconfig提示 commond not found，则需安装net-tools如下
+
+yum install net-tools
+
+安装成功即可使用ifconfig命令查看ip

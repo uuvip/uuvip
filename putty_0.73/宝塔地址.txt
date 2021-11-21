@@ -1,0 +1,29 @@
+15103477785
+13234166661
+19815151534
+群:714730084
+下载地址:
+链接：https://pan.baidu.com/s/1nWqcYv8Htfojos21fmIrzw 提取码：mjvu
+
+外网面板地址: http://117.176.226.177:8888/7d563ab4
+内网面板地址: http://192.168.0.117:8888/7d563ab4
+username: psphsc3q
+password: b6410fa8
+
+
+
+
+1、在线安装zerotier
+curl -s https://install.zerotier.com/ | sudo bash
+
+2、添加开机自启
+
+$ sudo systemctl enable zerotier-one.service
+
+3、启动zerotier-one.service
+
+$ sudo systemctl start zerotier-one.service
+
+4、加入网络
+
+$ sudo zerotier-cli join 12ac4a1e71ff4903
