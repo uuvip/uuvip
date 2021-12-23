@@ -1,22 +1,45 @@
 http://uc.unaux.com/?
 https://gsou.cloud/
 https://bulink.xyz/
-https://www.ddnsto.com/ÊÇÏÂÃæÈíÂ·ÓÉµÄ´©Í¸
+https://www.ddnsto.com/æ˜¯ä¸‹é¢è½¯è·¯ç”±çš„ç©¿é€
 https://koolshare.cn/portal.php OPENwrt
-https://github.com/lingyle/free·­Ç½
-https://raw.fastgit.org/freefq/free/master/v2   ½Úµã¸üĞÂ¶©ÔÄ
+https://github.com/lingyle/freeç¿»å¢™
+https://raw.fastgit.org/freefq/free/master/v2   èŠ‚ç‚¹æ›´æ–°è®¢é˜…
 https://github.com/lingyle/free
 https://q376444013.gitee.io/
-https://www.wujinzy.com/²É¼¯M3U8ÏÂÔØ¿ì
-https://osdn.net/projects/android-x86/releases/67834/ °²×¿¾µÏñ
-https://download.zerotier.com/dist/synology/´©Í¸Èí¼ş
+https://www.wujinzy.com/é‡‡é›†M3U8ä¸‹è½½å¿«
+https://osdn.net/projects/android-x86/releases/67834/ å®‰å“é•œåƒ
+https://download.zerotier.com/dist/synology/ç©¿é€è½¯ä»¶
 =============================================
 6cvsRCTufkk6swp  githubuuvip
-ÒÔÏÂÊÇ githubµÄTokenĞèÒªËüÍÆËÍºÍÀ­È¡
+ä»¥ä¸‹æ˜¯ githubçš„Tokenéœ€è¦å®ƒæ¨é€å’Œæ‹‰å–
 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
-https://gitee.com/ÊÖ»ú/zxcv1234
+https://gitee.com/æ‰‹æœº/zxcv1234
 -------------------------------------------------
 qinpeijun00@gmail.com
-ÊÇwifi ID
-¹È¸èÓÊ¼ş
+æ˜¯wifi ID
+è°·æ­Œé‚®ä»¶
 ============-------------------------------------------------
+https://www.heroku.com/
+https://github.com/bclswl0827/v2ray-heroku
+https://www.cloudflare.com/
+ä¼˜é€‰IPè½¯ä»¶åœ°å€https://pan.lanzouo.com/b0742hkxe
+https://github.com/XIU2/CloudflareSpeedTest
+è§†é¢‘æ•™ç¨‹åœ°å€https://www.youtube.com/watch?v=5bvbIxFQ1ac&t=525s
+
+addEventListener(
+  "fetch",event => {
+     let url=new URL(event.request.url);
+     url.hostname="herokuçš„APPåç§°.herokuapp.com";
+     let request=new Request(url,event.request);
+     event. respondWith(
+       fetch(request)
+     )
+  }
+)
+
+herokuè´¦å·gmailé‚®ç®±å’Œcloudflareè´¦å·ä¸€æ ·
+å¯†ç 6tNnYaRoEPb6uEbh?sub
+
+è‡ªå·±çš„å¤‡ç”¨
+
