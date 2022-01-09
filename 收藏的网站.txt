@@ -41,5 +41,8 @@ addEventListener(
 heroku账号gmail邮箱和cloudflare账号一样
 密码6tNnYaRoEPb6uEbh?sub
 
-自己的备用
 
+用户名为 邮箱
+
+7d69cecb35b028f4c883316d8007e3f6724e0c51
+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  4月9号过期
