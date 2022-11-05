@@ -1,113 +1,118 @@
-Êı¾İ¿âµØÖ· : mysql003.mysql001.com
-Êı¾İ¿âÃû³Æ : mysql3729142_db
-Êı¾İ¿âÓÃ»§Ãû : mysql3729142
-Êı¾İ¿âÃÜÂë : hZeEYNvpPV
+æ•°æ®åº“åœ°å€ : mysql003.mysql001.com
+æ•°æ®åº“åç§° : mysql3729142_db
+æ•°æ®åº“ç”¨æˆ·å : mysql3729142
+æ•°æ®åº“å¯†ç  : hZeEYNvpPV
 ---------------------------------------------------
-FTPµÇÂ¼µØÖ· : mysql003.mysql001.com
-Êı¾İ¿âFTPÕËºÅ : mysql3729142_ftp
-Êı¾İ¿âFTPÃÜÂë : hZeEYNvpPV
+FTPç™»å½•åœ°å€ : mysql003.mysql001.com
+æ•°æ®åº“FTPè´¦å· : mysql3729142_ftp
+æ•°æ®åº“FTPå¯†ç  : hZeEYNvpPV
 -----------------------------------------
-FTPµÇÂ¼µØÖ· : hk2650.ftphost.top
-FTPµÇÂ¼ÓÃ»§Ãû : 8akkhv85ia4
-FTPµÇÂ¼ÃÜÂë : SIw4YW8DSO
------------ÒÔÉÏÊÇÄã¿Õ¼äµÄ×ÊÁÏ--------------------------
+FTPç™»å½•åœ°å€ : hk2650.ftphost.top
+FTPç™»å½•ç”¨æˆ·å : 8akkhv85ia4
+FTPç™»å½•å¯†ç  : SIw4YW8DSO
+-----------ä»¥ä¸Šæ˜¯ä½ ç©ºé—´çš„èµ„æ–™--------------------------
 https://www.8a.hk/
 15165734148
-ÃÜÂë2300373cxl
+å¯†ç 2300373cxl
 
-ÍøÕ¾Ç°Ì¨http://huaij.6my.xyz/
-ÍøÕ¾ºóÌ¨http://huaij.6my.xyz/dede/
-ºóÌ¨ÕËºÅ¡¢ÃÜÂë¶¼ÊÇadmin
+ç½‘ç«™å‰å°http://huaij.6my.xyz/
+ç½‘ç«™åå°http://huaij.6my.xyz/dede/
+åå°è´¦å·ã€å¯†ç éƒ½æ˜¯admin
 
-×¢Òâ£ººóÌ¨ÃÜÂëÔÚÕıÊ½Ê¹ÓÃÍøÕ¾ºóĞŞ¸Äµô
-ĞŞ¸ÄÈ¥ºóÌ¨-ÏµÍ³-ÏµÍ³ÓÃ»§¹ÜÀí ÖĞĞŞ¸ÄÃÜÂë
+æ³¨æ„ï¼šåå°å¯†ç åœ¨æ­£å¼ä½¿ç”¨ç½‘ç«™åä¿®æ”¹æ‰
+ä¿®æ”¹å»åå°-ç³»ç»Ÿ-ç³»ç»Ÿç”¨æˆ·ç®¡ç† ä¸­ä¿®æ”¹å¯†ç 
 
-Èº690615638
+ç¾¤690615638
 qq1443969923
 -------------------------------------
 https://www.sanfengyun.com/
-FTPÕËºÅ£ºftp6435953
-FTPµØÖ·£º111.67.192.119
-ÃÜÂëZhang888888ºÍÊı¾İ¿âÒ»Ñù
+FTPè´¦å·ï¼šftp6435953
+FTPåœ°å€ï¼š111.67.192.119
+å¯†ç Zhang888888å’Œæ•°æ®åº“ä¸€æ ·
 
-Êı¾İ¿âÃû³Æ :
+æ•°æ®åº“åç§° :
 sfydb_6435953
-Êı¾İ¿âµØÖ· :
+æ•°æ®åº“åœ°å€ :
 127.0.0.1
-Êı¾İ¿âÕËºÅ :
+æ•°æ®åº“è´¦å· :
 sfydb_6435953
 =============================================
 6cvsRCTufkk6swp  githubuuvip
-ÒÔÏÂÊÇ githubµÄTokenĞèÒªËüÍÆËÍºÍÀ­È¡
+ä»¥ä¸‹æ˜¯ githubçš„Tokenéœ€è¦å®ƒæ¨é€å’Œæ‹‰å–
 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
-https://gitee.com/ÊÖ»ú/zxcv1234
+https://gitee.com/æ‰‹æœº/zxcv1234
+
+github  uu14
+7d69cecb35b028f4c883316d8007e3f6724e0c51  å¯†ç 
+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 12æœˆ4å·åˆ°æœŸkey
+
 -------------------------------------------------
 http://www.shidaiy.cn/  uu14top zxcv1234
-ÔÆ - ×¨ÒµµÄÏã¸ÛÃÀ¹ú¹úÄÚ¹Ò»ú±¦·şÎñÆ÷
-Êı¾İ¿âÕËºÅÃû³Ærjm625fj58
-Êı¾İ¿âÃÜÂëqm02a8
-FTPµØÖ·£º84.39.185.136
+äº‘ - ä¸“ä¸šçš„é¦™æ¸¯ç¾å›½å›½å†…æŒ‚æœºå®æœåŠ¡å™¨
+æ•°æ®åº“è´¦å·åç§°rjm625fj58
+æ•°æ®åº“å¯†ç qm02a8
+FTPåœ°å€ï¼š84.39.185.136
 --------------------------------------------
-Ãâ·Ñ¹úÍâ¿Õ¼ä
+å…è´¹å›½å¤–ç©ºé—´
 https://profreehost.com/
-ÕËºÅÓÊÏä
-ÃÜÂëQQ
+è´¦å·é‚®ç®±
+å¯†ç QQ
 
-Ö÷Óò	9619.unaux.com
-FTPÖ÷»úÃû£º	ftpupload.net
-FTPÓÃ»§Ãû£º	unaux_27742623
-MySQLÖ÷»úÃû£º	sql309.unaux.com
-MySQLÓÃ»§Ãû£º	unaux_27742623
-ÍĞ¹ÜÁ¿	vol4_2
+ä¸»åŸŸ	9619.unaux.com
+FTPä¸»æœºåï¼š	ftpupload.net
+FTPç”¨æˆ·åï¼š	unaux_27742623
+MySQLä¸»æœºåï¼š	sql309.unaux.com
+MySQLç”¨æˆ·åï¼š	unaux_27742623
+æ‰˜ç®¡é‡	vol4_2
 
-MySQLÓÃ»§Ãû	unaux_27742623
-MySQLÃÜÂë	ÓëÄúµÄcpanelÃÜÂëÏàÍ¬
-MySQLÖ÷»úÃû	sql309.unaux.com
-MySQL¶Ë¿Ú	3306
+MySQLç”¨æˆ·å	unaux_27742623
+MySQLå¯†ç 	ä¸æ‚¨çš„cpanelå¯†ç ç›¸åŒ
+MySQLä¸»æœºå	sql309.unaux.com
+MySQLç«¯å£	3306
 
 unaux_27742623_uu
 unaux_27742623
-£¨ÄúµÄvPanelÃÜÂë£©	
-MySQLÖ÷»úÃûsql309.unaux.com
+ï¼ˆæ‚¨çš„vPanelå¯†ç ï¼‰	
+MySQLä¸»æœºåsql309.unaux.com
 ---------------------------------------------------
-http://net2ftp.com/index.phpÔÚÏß½âÑ¹ÍøÕ¾
+http://net2ftp.com/index.phpåœ¨çº¿è§£å‹ç½‘ç«™
 
-MySQLÖ÷»úÃû	sql312.unaux.com
-MySQLÓÃ»§Ãûunaux_27891721
-MySQLÊı¾İ¿âÃû³Æunaux_27891721_uc
+MySQLä¸»æœºå	sql312.unaux.com
+MySQLç”¨æˆ·åunaux_27891721
+MySQLæ•°æ®åº“åç§°unaux_27891721_uc
 5n0ox2ecice
-Ö÷Óò	x1pl.unaux.com
-FTPÖ÷»úÃû£º	ftpupload.net
-FTPÓÃ»§Ãû£º	unaux_27891721
-MySQLÖ÷»úÃû£º	sql312.unaux.com
-MySQLÓÃ»§Ãû£º	unaux_27891721
-5n0ox2ecice  ÃÜÂë
+ä¸»åŸŸ	x1pl.unaux.com
+FTPä¸»æœºåï¼š	ftpupload.net
+FTPç”¨æˆ·åï¼š	unaux_27891721
+MySQLä¸»æœºåï¼š	sql312.unaux.com
+MySQLç”¨æˆ·åï¼š	unaux_27891721
+5n0ox2ecice  å¯†ç 
 ----------------------------------------------
-°Ù¼ÒÔÆ https://www.hkyun.top/ ÕæÔÚÓÃµÄ
+ç™¾å®¶äº‘ https://www.hkyun.top/ çœŸåœ¨ç”¨çš„
 
-FTPµØÖ·£º	w7j12.515ip.top    FTP¶Ë¿Ú£º21
-FTPÓÃ»§Ãû£º	uu14top45
-FTPÃÜÂë£º	05A764321Ef0e0
+FTPåœ°å€ï¼š	w7j12.515ip.top    FTPç«¯å£ï¼š21
+FTPç”¨æˆ·åï¼š	uu14top45
+FTPå¯†ç ï¼š	05A764321Ef0e0
 
-Êı¾İ¿âÈí¼şÀàĞÍ£ºmysqlw2.w2w1.55ip.top:3306	¡¡¡¡MySQL5.5
-Êı¾İ¿âÃû£º	¡¡¡¡mysql4198526_db
-Êı¾İ¿âÓÃ»§ÃûÕËºÅ£º	¡¡¡¡ mysql4198526
-Êı¾İ¿âÃÜÂë£º	¡¡¡¡f2Z0Uldaow
-Á¬½Ó¶Ë¿Ú£º	¡¡¡¡ 3306
-·şÎñÆ÷IP£ºlocalhost	¡¡¡¡
-¼ÇÊÂ±¾¹ÜÀíÃÜÂëÎª£ºadmina0a7
+æ•°æ®åº“è½¯ä»¶ç±»å‹ï¼šmysqlw2.w2w1.55ip.top:3306	ã€€ã€€MySQL5.5
+æ•°æ®åº“åï¼š	ã€€ã€€mysql4198526_db
+æ•°æ®åº“ç”¨æˆ·åè´¦å·ï¼š	ã€€ã€€ mysql4198526
+æ•°æ®åº“å¯†ç ï¼š	ã€€ã€€f2Z0Uldaow
+è¿æ¥ç«¯å£ï¼š	ã€€ã€€ 3306
+æœåŠ¡å™¨IPï¼šlocalhost	ã€€ã€€
+è®°äº‹æœ¬ç®¡ç†å¯†ç ä¸ºï¼šadmina0a7
  https://laoyazy2.com/
 http://huajiaozy5.com/
 http://z.zy40.cn/z/
 www.vrecf.com/index.html
 --------------------------------------------------------
- ¼ÇÊÂ±¾¹ÜÀíÃÜÂëÎª£º                admin307b
+ è®°äº‹æœ¬ç®¡ç†å¯†ç ä¸ºï¼š                admin307b
 
-ÔÚÓÃµÄ--------------------------
-Ãâ·Ñ¹úÍâ¿Õ¼ä
+åœ¨ç”¨çš„--------------------------
+å…è´¹å›½å¤–ç©ºé—´
 https://profreehost.com/
-ÕËºÅÓÊÏä
-ÃÜÂëQQ
+è´¦å·é‚®ç®±
+å¯†ç QQ
 
 -------------------------------------------------
-À¶ÍÃÍøÂçhttp://www.lantuvps.cn/ uu14topzxcv1234
+è“å…”ç½‘ç»œhttp://www.lantuvps.cn/ uu14topzxcv1234
